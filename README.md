@@ -2,15 +2,9 @@
 
 ![1691958561392.jpg](Essential%20Django%20Training%20Workshop%20Hands-On!%20bfc5f01528b446c09a94039d643aca21/1691958561392.jpg)
 
-**Duration of Event:**
+**Duration of Event: 1.5 hours each day (3 days)**
 
-**1.5 hours each day (3 days)**
-
-**Date and Time:** 
-
-**5th Sept 2023 - 7th Sept 2023**
-
-**7 PM to 8:30 PM**
+**Date and Time: 5th Sept 2023 - 7th Sept 2023 7 PM to 8:30 PM**
 
 **Medium: Online (Google Meet)**
 
